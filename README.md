@@ -11,4 +11,4 @@ Here is the preview of my app like below.
 4. Use Google Maps to show selected city on the map
 
 
-[Let's Connect]("https://www.linkedin.com/in/muammeraktas/")
+[Let's Connect](https://www.linkedin.com/in/muammeraktas)
